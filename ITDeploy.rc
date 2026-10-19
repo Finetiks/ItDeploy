@@ -1,0 +1,24 @@
+1 24 "ITDeploy.manifest"
+MAINICON ICON "ITDeploy.ico"
+
+1 VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+FILEOS 0x4
+FILETYPE 0x1
+{
+  BLOCK "StringFileInfo"
+  {
+    BLOCK "041904E3"
+    {
+      VALUE "FileDescription", "ITDeploy - masove vstanovlennia program"
+      VALUE "ProductName", "ITDeploy"
+      VALUE "FileVersion", "1.0.0.0"
+      VALUE "ProductVersion", "1.0.0.0"
+    }
+  }
+  BLOCK "VarFileInfo"
+  {
+    VALUE "Translation", 0x0419, 1251
+  }
+}

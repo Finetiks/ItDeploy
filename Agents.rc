@@ -1,0 +1,2 @@
+AGENT32 RCDATA "agent/out32/ITDeployAgent.exe"
+AGENT64 RCDATA "agent/out64/ITDeployAgent.exe"
